@@ -1,14 +1,13 @@
 <script setup>
 
-import Exo1 from './components/exo1.vue';
-import Exo2 from './components/exo2.vue';
-import Exo3 from './components/exo3.vue';
-import Exo4 from './components/exo4.vue';
-import Exo5 from './components/exo5.vue';
-import Exo6 from './components/exo6.vue';
-import Exo7 from './components/exo7.vue';
-import Exo8 from './components/exo8.vue';
-import Exo9 from './components/exo9.vue';
+import Exo1 from './components/Exo1.vue';
+import Exo2 from './components/Exo2.vue';
+import Exo3 from './components/Exo3.vue';
+import Exo4 from './components/Exo4.vue';
+import Exo5 from './components/Exo5.vue';
+import Exo6 from './components/Exo6.vue';
+import Exo7 from './components/Exo7.vue';
+
 </script>
 
 <template>
